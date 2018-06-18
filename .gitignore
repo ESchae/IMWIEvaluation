@@ -1,0 +1,17 @@
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+# Directory containing eggs that were downloaded by setuptools to build, test, and run plug-ins.
+/.eggs/
+
+# Info on failed tests.
+/.cache/
+
+# Old log files
+*.log
