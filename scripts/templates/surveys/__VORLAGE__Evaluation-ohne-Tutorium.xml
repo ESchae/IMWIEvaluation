@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionnaire id="524172">
+  <title>___ VORLAGE ___ Evaluation ohne Tutorium</title>
+  <investigator/>
+  <dataCollector/>
+  <questionnaireInfo>
+    <position>before</position>
+    <text>&lt;p&gt;Vielen Dank, dass du an der Evaluation der Lehrveranstaltungen am IMWI teilnimmst. Die Evaluationen sind eine gute Gelegenheit für anonymes Feedback für die Lehrpersonen und sollen dazu dienen, die Qualität der Lehre weiter zu verbessern.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Generell gilt: Du kannst Kritik oder Anregungen zu Lehrveranstaltungen jederzeit vor dem Studentischen Ausschuss vorbringen - beispielweise auch dann, wenn eine Lehrveranstaltung nicht evaluiert wird. Schreibe dazu einfach eine E-Mail an imwistudenten@gmail.com oder sprich jemanden von uns persönlich an.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt; &lt;/p&gt;</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <questionnaireInfo>
+    <position>after</position>
+    <text>Vielen Dank, dass du dir Zeit für diese Umfrage genommen hast!</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <section id="1307">
+    <sectionInfo>
+      <position>title</position>
+      <text>Beurteilung der Lehrveranstaltung</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Bitte wähle Zutreffendes aus.</text>
+      <subQuestion varName="allgemein_gelernt">
+        <text>Ich habe in dieser Veranstaltung viel gelernt.</text>
+      </subQuestion>
+      <subQuestion varName="allgemein_proftiere">
+        <text>Ich profitiere von dieser Veranstaltung.</text>
+      </subQuestion>
+      <subQuestion varName="allgemein_gerne">
+        <text>Ich besuche diese Veranstaltung gerne.</text>
+      </subQuestion>
+      <subQuestion varName="allgemein_struktur">
+        <text>Die Lehrveranstaltung ist gut strukturiert.</text>
+      </subQuestion>
+      <subQuestion varName="allgemein_abstimmung">
+        <text>Die inhaltliche Abstimmung zu anderen Lehrveranstaltungen in meinem Studienplan ist gut.</text>
+      </subQuestion>
+      <subQuestion varName="allgemein_bedeutung">
+        <text>Ich erkenne die Bedeutung der Lehrinhalte für das weitere Studium.</text>
+      </subQuestion>
+      <response varName="allgemein">
+        <fixed>
+          <category>
+            <label>trifft voll zu</label>
+            <value>voll</value>
+          </category>
+          <category>
+            <label>trifft zu</label>
+            <value>zu</value>
+          </category>
+          <category>
+            <label>trifft eher zu</label>
+            <value>ehrzu</value>
+          </category>
+          <category>
+            <label>trifft eher nicht zu</label>
+            <value>ehrni</value>
+          </category>
+          <category>
+            <label>trifft nicht zu</label>
+            <value>nicht</value>
+          </category>
+          <category>
+            <label>trifft gar nicht zu</label>
+            <value>garni</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Bitte beurteile die Veranstaltung hinsichtlich folgender Aspekte (unabhängig von der Lehrperson):</text>
+      <subQuestion varName="allg2_SQ001">
+        <text>Inhalt --&gt; sehr einfach | sehr schwierig</text>
+      </subQuestion>
+      <subQuestion varName="allg2_SQ002">
+        <text>Umfang --&gt; zu wenig | zu viel</text>
+      </subQuestion>
+      <subQuestion varName="allg2_SQ003">
+        <text>Erforderliche Vorkenntnisse --&gt; sehr wenige | sehr viele</text>
+      </subQuestion>
+      <subQuestion varName="allg2_SQ004">
+        <text>Geschwindigkeit --&gt; zu langsam | zu schnell</text>
+      </subQuestion>
+      <subQuestion varName="allg2_SQ005">
+        <text>Anschaulichkeit (durch hilfreiche Beispiele) --&gt; sehr anschaulich | sehr abstrakt</text>
+      </subQuestion>
+      <response varName="allg2">
+        <fixed>
+          <category>
+            <label>1</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>2</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>3</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>4</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>5</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Die Lehrveranstaltung fördert ...</text>
+      <response varName="SQ001">
+        <fixed>
+          <category>
+            <label>meine praktische Handlungsfähigkeit</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ002">
+        <fixed>
+          <category>
+            <label>meine Fähigkeiten im wissenschaftlichen Problemlösen</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ003">
+        <fixed>
+          <category>
+            <label>Transfer und Anwendung des Gelernten auf andere Kontexte</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ004">
+        <fixed>
+          <category>
+            <label>meine analytischen Fähigkeiten</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ005">
+        <fixed>
+          <category>
+            <label>meine Eigeninitiative</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ006">
+        <fixed>
+          <category>
+            <label>meine Fähigkeit zur Zusammenarbeit</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ007">
+        <fixed>
+          <category>
+            <label>das selbständige Arbeiten</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ008">
+        <fixed>
+          <category>
+            <label>meine Kreativität</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="foedertT">
+        <fixed>
+          <category>
+            <label>Sonstiges</label>
+            <value>1</value>
+            <contingentQuestion varName="foedertother">
+              <text>Sonstiges</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Bitte kreuze Zutreffendes an.</text>
+      <subQuestion varName="niveauEcts_SQ001">
+        <text>Das inhaltliche Niveau der Veranstaltung ist...</text>
+      </subQuestion>
+      <subQuestion varName="niveauEcts_SQ002">
+        <text>Verglichen mit den vergebenen Leistungspunkten ist mein tatsächlicher Arbeitsaufwand für diese Lehrveranstaltung (1 ECTS = 30 Stunden Arbeitsaufwand)...</text>
+      </subQuestion>
+      <response varName="niveauEcts">
+        <fixed>
+          <category>
+            <label>zu hoch</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>hoch</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>angemessen</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>niedrig</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>zu niedrig</label>
+            <value>A5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="1305">
+    <sectionInfo>
+      <position>title</position>
+      <text>Allgemeine Lehrkompetenz</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Die Dozentin / der Dozent ...</text>
+      <subQuestion varName="lehrkompetenz_inhalt">
+        <text>...kann die Inhalte verständlich darstellen.</text>
+      </subQuestion>
+      <subQuestion varName="lehrkompetenz_ausndrst">
+        <text>... fördert die aktive Auseinandersetzung mit den Inhalten.</text>
+      </subQuestion>
+      <subQuestion varName="lehrkompetenz_forschung">
+        <text>... verweist auf die aktuelle Forschung.</text>
+      </subQuestion>
+      <subQuestion varName="lehrkompetenz_therprax">
+        <text>... verweist auf Zusammenhänge zwischen Theorie und Praxis.</text>
+      </subQuestion>
+      <subQuestion varName="lehrkompetenz_kompetent">
+        <text>... wirkt kompetent bei der Durchführung der Veranstaltung.</text>
+      </subQuestion>
+      <subQuestion varName="lehrkompetenz_engagiert">
+        <text>...wirkt engagiert und motiviert bei der Durchführung der Veranstaltung.</text>
+      </subQuestion>
+      <subQuestion varName="lehrkompetenz_fragen">
+        <text>... geht gut auf Fragen und Belange der Studierenden ein.</text>
+      </subQuestion>
+      <response varName="lehrkompetenz">
+        <fixed>
+          <category>
+            <label>trifft voll zu</label>
+            <value>voll</value>
+          </category>
+          <category>
+            <label>trifft zu</label>
+            <value>zu</value>
+          </category>
+          <category>
+            <label>trifft eher zu</label>
+            <value>ehrzu</value>
+          </category>
+          <category>
+            <label>trifft eher nicht zu</label>
+            <value>ehrni</value>
+          </category>
+          <category>
+            <label>trifft nicht zu</label>
+            <value>nicht</value>
+          </category>
+          <category>
+            <label>trifft gar nicht zu</label>
+            <value>garni</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="1304">
+    <sectionInfo>
+      <position>title</position>
+      <text>Studentische Leistung</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Mein Engagement für diese Lehrveranstaltung ist gekennzeichnet durch:</text>
+      <response varName="anwesenheit">
+        <fixed>
+          <category>
+            <label>regelmäßige Anwesenheit</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="mitschreiben">
+        <fixed>
+          <category>
+            <label>konsequentes Mitschreiben</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="beitrag">
+        <fixed>
+          <category>
+            <label>aktive Beiträge</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="nachbereitung">
+        <fixed>
+          <category>
+            <label>regelmäßige Nachbereitung</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="lerngruppe">
+        <fixed>
+          <category>
+            <label>Teilnahme an einer Lerngruppe</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="literatur">
+        <fixed>
+          <category>
+            <label>Lesen der empfohlenen Literatur</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="skripte">
+        <fixed>
+          <category>
+            <label>Durcharbeiten von Skripten/Materialien</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="hausis">
+        <fixed>
+          <category>
+            <label>Durcharbeiten der Übungsblätter/Hausaufgaben</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="internet">
+        <fixed>
+          <category>
+            <label>Internetrecherche</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="engagementArtj">
+        <fixed>
+          <category>
+            <label>Sonstiges</label>
+            <value>1</value>
+            <contingentQuestion varName="engagementArtother">
+              <text>Sonstiges</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Wie viel Zeit hast du bis jetzt durchschnittlich pro Woche für die Vor- und Nachbereitung für diese Veranstaltung investiert?</text>
+      <response varName="investierteZeit">
+        <fixed>
+          <category>
+            <label>Keine</label>
+            <value>A7</value>
+          </category>
+          <category>
+            <label>&lt; 1 Stunde</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>1 &lt; 2 Stunden</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>2 &lt; 3 Stunden</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>3 &lt; 4 Stunden</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>4 Stunden und mehr</label>
+            <value>A6</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Wie beurteilst du die Mitarbeit deiner Studienkollegen/innen innerhalb dieser Lehrveranstaltung?</text>
+      <subQuestion varName="mitarbeitStudienkoll_SQ001">
+        <text>sehr intensiv | sehr gering</text>
+      </subQuestion>
+      <response varName="mitarbeitStudienkoll">
+        <fixed>
+          <category>
+            <label>1</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>2</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>3</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>4</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>5</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="1306">
+    <sectionInfo>
+      <position>title</position>
+      <text>Lernmaterialien und Hilfsmittel</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Bitte kreuze Zutreffendes an.</text>
+      <subQuestion varName="allgLernmaterialien_g3">
+        <text>Es ist einfach, auf die angebotenen Lernmaterialien zuzugreifen.</text>
+      </subQuestion>
+      <subQuestion varName="allgLernmaterialien_g4">
+        <text>Die Lernmaterialien sind übersichtlich und gut sortiert.</text>
+      </subQuestion>
+      <subQuestion varName="allgLernmaterialien_g5">
+        <text>Die Lernmaterialien spiegeln den Inhalt der Lehrveranstaltung vollständig wieder.</text>
+      </subQuestion>
+      <response varName="allgLernmaterialien">
+        <fixed>
+          <category>
+            <label>trifft voll zu</label>
+            <value>voll</value>
+          </category>
+          <category>
+            <label>trifft zu</label>
+            <value>zu</value>
+          </category>
+          <category>
+            <label>trifft eher zu</label>
+            <value>ehrzu</value>
+          </category>
+          <category>
+            <label>trifft eher nicht zu</label>
+            <value>ehrni</value>
+          </category>
+          <category>
+            <label>trifft nicht zu</label>
+            <value>nicht</value>
+          </category>
+          <category>
+            <label>trifft gar nicht zu</label>
+            <value>garni</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Welche lehr- und lernunterstützenden Hilfsmittel (Medien) setzt der/die Dozent/in ein?</text>
+      <response varName="folien">
+        <fixed>
+          <category>
+            <label>Folien mit Beamer</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="beamer">
+        <fixed>
+          <category>
+            <label>Sonstige Beamernutzung (Livecoding, ...)</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="multimedia">
+        <fixed>
+          <category>
+            <label>Multimedia</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="overhead">
+        <fixed>
+          <category>
+            <label>Overheadprojektor</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="tafel">
+        <fixed>
+          <category>
+            <label>Tafel</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="skript">
+        <fixed>
+          <category>
+            <label>Begleitmaterialien (Skript)</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="internet">
+        <fixed>
+          <category>
+            <label>Internet</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="keine">
+        <fixed>
+          <category>
+            <label>keine</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="hilfsmittell">
+        <fixed>
+          <category>
+            <label>Sonstiges</label>
+            <value>1</value>
+            <contingentQuestion varName="hilfsmittelother">
+              <text>Sonstiges</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Wie verstand es der/die Dozent/in die verwendeten Hilfsmittel einzusetzen?</text>
+      <subQuestion varName="hilfsmittelKompetenz_SQ001">
+        <text>sehr gut | sehr schlecht</text>
+      </subQuestion>
+      <response varName="hilfsmittelKompetenz">
+        <fixed>
+          <category>
+            <label>1</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>2</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>3</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>4</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>5</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Ist der Raum für die Veranstaltung angemessen?</text>
+      <response varName="raumgroesse">
+        <fixed>
+          <category>
+            <label>Ja</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Nein</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Ist an der technischen Ausstattung etwas verbesserungswürdig?</text>
+      <response varName="technik">
+        <free>
+          <format>text</format>
+          <length>24</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="1308">
+    <sectionInfo>
+      <position>title</position>
+      <text>Freitext</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;p&gt;Bitte nimm dir an dieser Stelle kurz Zeit und nutze die Chance für eine ausführlichere Rückmeldung.  &lt;/p&gt;
+
+&lt;p&gt;WICHTIG: Bedenke, dass qualitatives Feedback in den Freitextfeldern VIEL hilfreicher ist, als deine Abstimmung bisher, vor allem in relativ kleinen Kursen. Mach was draus!&lt;/p&gt;
+
+&lt;p&gt;Hier ist Platz für Kommentare jeglicher Art. Zum Beispiel:&lt;/p&gt;
+
+
+	Was hat dir an dieser Lehrveranstaltung besonders gut gefallen?
+	Wo siehst du Verbesserungsvorschläge für diese Lehrveranstaltung?
+	Sonstiges?</text>
+      <response varName="freitext">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="1310">
+    <sectionInfo>
+      <position>title</position>
+      <text>Gesamtnote</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Wenn du die Veranstaltung insgesamt benoten müsstest, welche Note würdest du ihr geben (1 = sehr gut, 2 = gut, 3 = befriedigend, 4 = ausreichend, 5 = mangelhaft)?</text>
+      <response varName="gesamtnote">
+        <fixed>
+          <category>
+            <label>1</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>2</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>3</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>4</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>5</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+</questionnaire>

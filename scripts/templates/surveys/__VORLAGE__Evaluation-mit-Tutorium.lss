@@ -1,0 +1,1991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>261</DBVersion>
+ <languages>
+  <language>de-informal</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[11]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[< 1 Stunde]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[11]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[1 < 2 Stunden]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[11]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[2 < 3 Stunden]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[11]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[3 < 4 Stunden]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[11]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[4 Stunden und mehr]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[11]]></qid>
+    <code><![CDATA[A7]]></code>
+    <answer><![CDATA[Keine]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[315]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[zu hoch]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[315]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[hoch]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[315]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[angemessen]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[315]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[niedrig]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[315]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[zu niedrig]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[21]]></qid>
+    <code><![CDATA[ehrni]]></code>
+    <answer><![CDATA[trifft eher nicht zu]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[21]]></qid>
+    <code><![CDATA[ehrzu]]></code>
+    <answer><![CDATA[trifft eher zu]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[21]]></qid>
+    <code><![CDATA[garni]]></code>
+    <answer><![CDATA[trifft gar nicht zu]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[21]]></qid>
+    <code><![CDATA[nicht]]></code>
+    <answer><![CDATA[trifft nicht zu]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[21]]></qid>
+    <code><![CDATA[voll]]></code>
+    <answer><![CDATA[trifft voll zu]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[21]]></qid>
+    <code><![CDATA[zu]]></code>
+    <answer><![CDATA[trifft zu]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[30]]></qid>
+    <code><![CDATA[ehrni]]></code>
+    <answer><![CDATA[trifft eher nicht zu]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[30]]></qid>
+    <code><![CDATA[ehrzu]]></code>
+    <answer><![CDATA[trifft eher zu]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[30]]></qid>
+    <code><![CDATA[garni]]></code>
+    <answer><![CDATA[trifft gar nicht zu]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[30]]></qid>
+    <code><![CDATA[nicht]]></code>
+    <answer><![CDATA[trifft nicht zu]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[30]]></qid>
+    <code><![CDATA[voll]]></code>
+    <answer><![CDATA[trifft voll zu]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[30]]></qid>
+    <code><![CDATA[zu]]></code>
+    <answer><![CDATA[trifft zu]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[70]]></qid>
+    <code><![CDATA[ehrni]]></code>
+    <answer><![CDATA[trifft eher nicht zu]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[70]]></qid>
+    <code><![CDATA[ehrzu]]></code>
+    <answer><![CDATA[trifft eher zu]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[70]]></qid>
+    <code><![CDATA[garni]]></code>
+    <answer><![CDATA[trifft gar nicht zu]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[70]]></qid>
+    <code><![CDATA[nicht]]></code>
+    <answer><![CDATA[trifft nicht zu]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[70]]></qid>
+    <code><![CDATA[voll]]></code>
+    <answer><![CDATA[trifft voll zu]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[70]]></qid>
+    <code><![CDATA[zu]]></code>
+    <answer><![CDATA[trifft zu]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <conditions>
+  <fields>
+   <fieldname>cid</fieldname>
+   <fieldname>qid</fieldname>
+   <fieldname>cqid</fieldname>
+   <fieldname>cfieldname</fieldname>
+   <fieldname>method</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>scenario</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <cid><![CDATA[6]]></cid>
+    <qid><![CDATA[56]]></qid>
+    <cqid><![CDATA[105]]></cqid>
+    <cfieldname><![CDATA[938888X7X105]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[7]]></cid>
+    <qid><![CDATA[58]]></qid>
+    <cqid><![CDATA[105]]></cqid>
+    <cfieldname><![CDATA[938888X7X105]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[8]]></cid>
+    <qid><![CDATA[60]]></qid>
+    <cqid><![CDATA[105]]></cqid>
+    <cfieldname><![CDATA[938888X7X105]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[17]]></cid>
+    <qid><![CDATA[62]]></qid>
+    <cqid><![CDATA[105]]></cqid>
+    <cfieldname><![CDATA[938888X7X105]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[5]]></cid>
+    <qid><![CDATA[65]]></qid>
+    <cqid><![CDATA[105]]></cqid>
+    <cfieldname><![CDATA[938888X7X105]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[N]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+  </rows>
+ </conditions>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[1]]></gid>
+    <sid><![CDATA[938888]]></sid>
+    <group_name><![CDATA[Studentische Leistung]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description/>
+    <language><![CDATA[de-informal]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[3]]></gid>
+    <sid><![CDATA[938888]]></sid>
+    <group_name><![CDATA[Allgemeine Lehrkompetenz]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description/>
+    <language><![CDATA[de-informal]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[4]]></gid>
+    <sid><![CDATA[938888]]></sid>
+    <group_name><![CDATA[Lernmaterialien und Hilfsmittel]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description/>
+    <language><![CDATA[de-informal]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[5]]></gid>
+    <sid><![CDATA[938888]]></sid>
+    <group_name><![CDATA[Beurteilung der Lehrveranstaltung]]></group_name>
+    <group_order><![CDATA[0]]></group_order>
+    <description/>
+    <language><![CDATA[de-informal]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[6]]></gid>
+    <sid><![CDATA[938888]]></sid>
+    <group_name><![CDATA[Freitext]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description/>
+    <language><![CDATA[de-informal]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[7]]></gid>
+    <sid><![CDATA[938888]]></sid>
+    <group_name><![CDATA[Tutorium]]></group_name>
+    <group_order><![CDATA[5]]></group_order>
+    <description/>
+    <language><![CDATA[de-informal]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[1259]]></gid>
+    <sid><![CDATA[938888]]></sid>
+    <group_name><![CDATA[Gesamtnote]]></group_name>
+    <group_order><![CDATA[6]]></group_order>
+    <description/>
+    <language><![CDATA[de-informal]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[engagementArt]]></title>
+    <question><![CDATA[Mein Engagement für diese Lehrveranstaltung ist gekennzeichnet durch:]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[11]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[investierteZeit]]></title>
+    <question><![CDATA[Wie viel Zeit hast du <strong>bis jetzt</strong> durchschnittlich pro Woche für die Vor- und Nachbereitung für diese Veranstaltung investiert?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[19]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[A]]></type>
+    <title><![CDATA[mitarbeitStudienkoll]]></title>
+    <question><![CDATA[Wie beurteilst du die Mitarbeit deiner Studienkollegen/innen innerhalb dieser Lehrveranstaltung?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[21]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[lehrkompetenz]]></title>
+    <question><![CDATA[Die Dozentin / der Dozent ...]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[30]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[allgLernmaterialien]]></title>
+    <question><![CDATA[Bitte kreuze Zutreffendes an.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[37]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[hilfsmittel]]></title>
+    <question><![CDATA[Welche lehr- und lernunterstützenden Hilfsmittel (Medien) setzt der/die Dozent/in ein?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[46]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[A]]></type>
+    <title><![CDATA[hilfsmittelKompetenz]]></title>
+    <question><![CDATA[Wie verstand es der/die Dozent/in die verwendeten Hilfsmittel einzusetzen?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[54]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[freitext]]></title>
+    <question><![CDATA[<p>Bitte nimm dir an dieser Stelle kurz Zeit und nutze die Chance für eine ausführlichere Rückmeldung.  </p>
+
+<p>WICHTIG: Bedenke, dass qualitatives Feedback in den Freitextfeldern VIEL hilfreicher ist, als deine Abstimmung bisher, vor allem in relativ kleinen Kursen. Mach was draus!</p>
+
+<p>Hier ist Platz für Kommentare jeglicher Art. Zum Beispiel:</p>
+
+<ul>
+	<li>Was hat dir an dieser Lehrveranstaltung besonders gut gefallen?</li>
+	<li>Wo siehst du Verbesserungsvorschläge für diese Lehrveranstaltung?</li>
+	<li>Sonstiges?</li>
+</ul>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[56]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[A]]></type>
+    <title><![CDATA[sinnvoll]]></title>
+    <question><![CDATA[Die Übungen sind bzw. der praktische Teil der Lehrveranstaltung ist eine sinnvolle Ergänzung zur Vorlesung.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((938888X7X105.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[58]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[A]]></type>
+    <title><![CDATA[schwierigkeit]]></title>
+    <question><![CDATA[Wie schwierig sind die Übungsaufgaben?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((938888X7X105.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[60]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[A]]></type>
+    <title><![CDATA[verstaendlich]]></title>
+    <question><![CDATA[Wie verständlich sind die Erklärungen des Tutors?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((938888X7X105.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[freitextTutorat]]></title>
+    <question><![CDATA[Allgemeines Feedback zum Tutorium]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((938888X7X105.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[65]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[nichtBesucht]]></title>
+    <question><![CDATA[Warum hast du nicht teilgenommen?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((938888X7X105.NAOK == "N"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[70]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[allgemein]]></title>
+    <question><![CDATA[Bitte wähle Zutreffendes aus.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[85]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[A]]></type>
+    <title><![CDATA[allg2]]></title>
+    <question><![CDATA[Bitte beurteile die Veranstaltung hinsichtlich folgender Aspekte (unabhängig von der Lehrperson):]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[92]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[foedert]]></title>
+    <question><![CDATA[Die Lehrveranstaltung fördert ...]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[105]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[teilnahme]]></title>
+    <question><![CDATA[Hast du am Tutorium / an der Übung dieser Lehrveranstaltung mindestens einmal teilgenommen?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[315]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[niveauEcts]]></title>
+    <question><![CDATA[Bitte kreuze Zutreffendes an.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[2681]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[raumgroesse]]></title>
+    <question><![CDATA[Ist der Raum für die Veranstaltung angemessen?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[2682]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[technik]]></title>
+    <question><![CDATA[Ist an der technischen Ausstattung etwas verbesserungswürdig?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[15065]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1259]]></gid>
+    <type><![CDATA[5]]></type>
+    <title><![CDATA[gesamtnote]]></title>
+    <question><![CDATA[Wenn du die Veranstaltung insgesamt benoten müsstest, welche Note würdest du ihr geben (1 = sehr gut, 2 = gut, 3 = befriedigend, 4 = ausreichend, 5 = mangelhaft)?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+  </rows>
+ </questions>
+ <subquestions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[anwesenheit]]></title>
+    <question><![CDATA[regelmäßige Anwesenheit]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[3]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[mitschreiben]]></title>
+    <question><![CDATA[konsequentes Mitschreiben]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[4]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[beitrag]]></title>
+    <question><![CDATA[aktive Beiträge]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[5]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[nachbereitung]]></title>
+    <question><![CDATA[regelmäßige Nachbereitung]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[6]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[lerngruppe]]></title>
+    <question><![CDATA[Teilnahme an einer Lerngruppe]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[7]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[literatur]]></title>
+    <question><![CDATA[Lesen der empfohlenen Literatur]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[skripte]]></title>
+    <question><![CDATA[Durcharbeiten von Skripten/Materialien]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[9]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[internet]]></title>
+    <question><![CDATA[Internetrecherche]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[20]]></qid>
+    <parent_qid><![CDATA[19]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[sehr intensiv | sehr gering]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[23]]></qid>
+    <parent_qid><![CDATA[21]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[inhalt]]></title>
+    <question><![CDATA[ ...kann die Inhalte verständlich darstellen.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[24]]></qid>
+    <parent_qid><![CDATA[21]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[ausndrst]]></title>
+    <question><![CDATA[ ... fördert die aktive Auseinandersetzung mit den Inhalten.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[25]]></qid>
+    <parent_qid><![CDATA[21]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[forschung]]></title>
+    <question><![CDATA[ ... verweist auf die aktuelle Forschung.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[26]]></qid>
+    <parent_qid><![CDATA[21]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[therprax]]></title>
+    <question><![CDATA[ ... verweist auf Zusammenhänge zwischen Theorie und Praxis.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[27]]></qid>
+    <parent_qid><![CDATA[21]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[kompetent]]></title>
+    <question><![CDATA[ ... wirkt kompetent bei der Durchführung der Veranstaltung.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <parent_qid><![CDATA[21]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[engagiert]]></title>
+    <question><![CDATA[ ...wirkt engagiert und motiviert bei der Durchführung der Veranstaltung.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[29]]></qid>
+    <parent_qid><![CDATA[21]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[fragen]]></title>
+    <question><![CDATA[ ... geht gut auf Fragen und Belange der Studierenden ein.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[33]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[1]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[hausis]]></title>
+    <question><![CDATA[Durcharbeiten der Übungsblätter/Hausaufgaben]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[39]]></qid>
+    <parent_qid><![CDATA[37]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[folien]]></title>
+    <question><![CDATA[ Folien mit Beamer]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[40]]></qid>
+    <parent_qid><![CDATA[37]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[multimedia]]></title>
+    <question><![CDATA[ Multimedia]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[41]]></qid>
+    <parent_qid><![CDATA[37]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[overhead]]></title>
+    <question><![CDATA[ Overheadprojektor]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[42]]></qid>
+    <parent_qid><![CDATA[37]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[tafel]]></title>
+    <question><![CDATA[ Tafel]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[43]]></qid>
+    <parent_qid><![CDATA[37]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[skript]]></title>
+    <question><![CDATA[ Begleitmaterialien (Skript)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[44]]></qid>
+    <parent_qid><![CDATA[37]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[internet]]></title>
+    <question><![CDATA[ Internet]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[45]]></qid>
+    <parent_qid><![CDATA[37]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[keine]]></title>
+    <question><![CDATA[ keine]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[47]]></qid>
+    <parent_qid><![CDATA[46]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[sehr gut | sehr schlecht]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[57]]></qid>
+    <parent_qid><![CDATA[56]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[trifft voll zu | trifft gar nicht zu]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[59]]></qid>
+    <parent_qid><![CDATA[58]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[zu leicht | zu schwierig]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[61]]></qid>
+    <parent_qid><![CDATA[60]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[sehr gut | sehr schlecht]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[78]]></qid>
+    <parent_qid><![CDATA[70]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[gelernt]]></title>
+    <question><![CDATA[Ich habe in dieser Veranstaltung viel gelernt.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[79]]></qid>
+    <parent_qid><![CDATA[70]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[proftiere]]></title>
+    <question><![CDATA[Ich profitiere von dieser Veranstaltung.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[80]]></qid>
+    <parent_qid><![CDATA[70]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[gerne]]></title>
+    <question><![CDATA[Ich besuche diese Veranstaltung gerne.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[81]]></qid>
+    <parent_qid><![CDATA[70]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[struktur]]></title>
+    <question><![CDATA[Die Lehrveranstaltung ist gut strukturiert.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[83]]></qid>
+    <parent_qid><![CDATA[70]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[abstimmung]]></title>
+    <question><![CDATA[Die inhaltliche Abstimmung zu anderen Lehrveranstaltungen in meinem Studienplan ist gut.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[84]]></qid>
+    <parent_qid><![CDATA[70]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[bedeutung]]></title>
+    <question><![CDATA[Ich erkenne die Bedeutung der Lehrinhalte für das weitere Studium.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[87]]></qid>
+    <parent_qid><![CDATA[85]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Inhalt --> sehr einfach | sehr schwierig]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[88]]></qid>
+    <parent_qid><![CDATA[85]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Umfang --> zu wenig | zu viel]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[89]]></qid>
+    <parent_qid><![CDATA[85]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Erforderliche Vorkenntnisse --> sehr wenige | sehr viele]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[90]]></qid>
+    <parent_qid><![CDATA[85]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Geschwindigkeit --> zu langsam | zu schnell]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[91]]></qid>
+    <parent_qid><![CDATA[85]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Anschaulichkeit (durch hilfreiche Beispiele) --> sehr anschaulich | sehr abstrakt]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[94]]></qid>
+    <parent_qid><![CDATA[92]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[meine praktische Handlungsfähigkeit]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[95]]></qid>
+    <parent_qid><![CDATA[92]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[meine Fähigkeiten im wissenschaftlichen Problemlösen]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[96]]></qid>
+    <parent_qid><![CDATA[92]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Transfer und Anwendung des Gelernten auf andere Kontexte]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[97]]></qid>
+    <parent_qid><![CDATA[92]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[meine analytischen Fähigkeiten]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[98]]></qid>
+    <parent_qid><![CDATA[92]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[meine Eigeninitiative]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99]]></qid>
+    <parent_qid><![CDATA[92]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[meine Fähigkeit zur Zusammenarbeit]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[100]]></qid>
+    <parent_qid><![CDATA[92]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[das selbständige Arbeiten]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[101]]></qid>
+    <parent_qid><![CDATA[92]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ008]]></title>
+    <question><![CDATA[meine Kreativität]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[102]]></qid>
+    <parent_qid><![CDATA[30]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[g3]]></title>
+    <question><![CDATA[Es ist einfach, auf die angebotenen Lernmaterialien zuzugreifen.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[103]]></qid>
+    <parent_qid><![CDATA[30]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[g4]]></title>
+    <question><![CDATA[Die Lernmaterialien sind übersichtlich und gut sortiert.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[104]]></qid>
+    <parent_qid><![CDATA[30]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[g5]]></title>
+    <question><![CDATA[Die Lernmaterialien spiegeln den Inhalt der Lehrveranstaltung vollständig wieder.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[244]]></qid>
+    <parent_qid><![CDATA[37]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[4]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[beamer]]></title>
+    <question><![CDATA[Sonstige Beamernutzung (Livecoding, ...)]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[317]]></qid>
+    <parent_qid><![CDATA[315]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Das inhaltliche Niveau der Veranstaltung ist...]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[318]]></qid>
+    <parent_qid><![CDATA[315]]></parent_qid>
+    <sid><![CDATA[938888]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Verglichen mit den vergebenen Leistungspunkten ist mein tatsächlicher Arbeitsaufwand für diese Lehrveranstaltung (1 ECTS = 30 Stunden Arbeitsaufwand)...]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+  </rows>
+ </subquestions>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>questionindex</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[938888]]></sid>
+    <admin><![CDATA[Administrator]]></admin>
+    <adminemail><![CDATA[imwistudenten@gmail.com]]></adminemail>
+    <anonymized><![CDATA[Y]]></anonymized>
+    <faxto/>
+    <format><![CDATA[G]]></format>
+    <savetimings><![CDATA[N]]></savetimings>
+    <template><![CDATA[default]]></template>
+    <language><![CDATA[de-informal]]></language>
+    <additional_languages/>
+    <datestamp><![CDATA[N]]></datestamp>
+    <usecookie><![CDATA[N]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[Y]]></allowsave>
+    <autonumber_start><![CDATA[1]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[N]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[N]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[N]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[N]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[imwistudenten@gmail.com]]></bounce_email>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[Y]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[N]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <questionindex><![CDATA[0]]></questionindex>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle><![CDATA[0]]></googleanalyticsstyle>
+    <googleanalyticsapikey/>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[938888]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[de-informal]]></surveyls_language>
+    <surveyls_title><![CDATA[___ VORLAGE ___ Evaluation mit Tutorium]]></surveyls_title>
+    <surveyls_description/>
+    <surveyls_welcometext><![CDATA[<p>Vielen Dank, dass du an der Evaluation der Lehrveranstaltungen am IMWI teilnimmst. Die Evaluationen sind eine gute Gelegenheit für anonymes Feedback für die Lehrpersonen und sollen dazu dienen, die Qualität der Lehre weiter zu verbessern.</p>
+
+<p><strong>Generell gilt: Du kannst Kritik oder Anregungen zu Lehrveranstaltungen jederzeit vor dem Studentischen Ausschuss vorbringen - beispielweise auch dann, wenn eine Lehrveranstaltung nicht evaluiert wird. Schreibe dazu einfach eine E-Mail an imwiestudenten@gmail.com oder sprich jemanden von uns persönlich an.</strong></p>
+
+<p> </p>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[Vielen Dank, dass du dir Zeit für diese Umfrage genommen hast!]]></surveyls_endtext>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[IMWI HfM Karlsruhe {SURVEYNAME}]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p>Hallo {FIRSTNAME},</p>
+
+<p><br />
+du bist berechtigt, an der folgenden Evaluation einer Lehrveranstaltung des IMWI teilzunehmen:<br />
+{SURVEYNAME}</p>
+
+<p><br />
+Um an dieser Umfrage teilzunehmen, klicke bitte auf diesen Link:<br />
+{SURVEYURL}</p>
+
+<p><br />
+Vielen Dank für dein wertvolles Feedback!</p>
+
+<p><br />
+Diese Umfrage wird von der studentischen Vertretung des IMWI durchgeführt.<br />
+Anmerkungen oder Rückfragen bitte an <a href="mailto:imwistudenten@gmail.com">imwistudenten@gmail.com</a></p>
+
+<p><br />
+----------------------------------------------<br />
+Falls du an dieser Lehrveranstaltung nicht teilgenommen hast, klicke bitte auf diesen Link:<br />
+{OPTOUTURL}</p>
+</body>
+</html>
+]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Erinnerung: IMWI HfM Karlsruhe {SURVEYNAME}]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p>Hallo {FIRSTNAME},<br />
+<br />
+vor kurzem haben wir Dich zu folgender Umfrage eingeladen: {SURVEYNAME}<br />
+Die Umfrage ist noch aktiv. Bitte gib dein Feedback so bald wie möglich ab.</p>
+
+<p>Um an dieser Umfrage teilzunehmen, klicke bitte auf diesen Link:<br />
+{SURVEYURL}</p>
+
+<p><br />
+Vielen Dank für dein wertvolles Feedback!</p>
+
+<p><br />
+Diese Umfrage wird von der studentischen Vertretung des IMWI durchgeführt.<br />
+Anmerkungen oder Rückfragen bitte an <a href="mailto:imwistudenten@gmail.com">imwistudenten@gmail.com</a></p>
+
+<p><br />
+----------------------------------------------<br />
+Falls du an dieser Lehrveranstaltung nicht teilgenommen hast, klicke bitte auf diesen Link:<br />
+{OPTOUTURL}</p>
+</body>
+</html>
+]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Registrierungsbestätigung für Teilnahmeumfrage]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[<html>
+<head>
+	<title></title>
+</head>
+<body>Hallo {FIRSTNAME},<br />
+<br />
+Du (oder jemand, der Deine E-Mail benutzt hat) hat sich für eine Umfrage mit dem Titel {SURVEYNAME} angemeldet.<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicke bitte auf den folgenden Link.nn{SURVEYURL}<br />
+<br />
+Wenn Du irgendwelche Fragen zu dieser Umfrage hast oder wenn Du Dich _nicht_ für diese Umfrage angemeldet hast und Du glaubst, dass Dir diese E-Mail irrtümlicherweise zugeschickt worden ist, kontaktiere bitte {ADMINNAME} unter {ADMINEMAIL}.</body>
+</html>
+]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Bestätigung: IMWI HfM Karlsruhe {SURVEYNAME}]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[<html>
+<head>
+	<title></title>
+</head>
+<body>Hallo {FIRSTNAME},<br />
+<br />
+vielen Dank für die Teilnahme an {SURVEYNAME}.
+<p>Diese Umfrage wird von der studentischen Vertretung des IMWI durchgeführt.<br />
+Anmerkungen oder Rückfragen bitte an <a href="mailto:imwistudenten@gmail.com">imwistudenten@gmail.com</a></p>
+</body>
+</html>
+]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[<html>
+<head>
+	<title></title>
+</head>
+<body>Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicke auf den folgenden Link um die Umfrage neu zu laden:<br />
+{RELOADURL}<br />
+<br />
+Klicke auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicke auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicke hier:<br />
+{STATISTICSURL}</body>
+</html>
+]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME} mit Ergebnissen]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[<html>
+<head>
+	<title></title>
+</head>
+<body>Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicke auf den folgenden Link um die Umfrage neu zu laden:<br />
+{RELOADURL}<br />
+<br />
+Klicke auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicke auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicke hier:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+Die folgenden Antworten wurden vom Teilnehmer gegeben:<br />
+{ANSWERTABLE}</body>
+</html>
+]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[1]]></surveyls_numberformat>
+    <attachments><![CDATA[a:0:{}]]></attachments>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+</document>

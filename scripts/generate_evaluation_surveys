@@ -1,0 +1,78 @@
+#!/usr/bin/env python3
+import logging
+import os
+from configparser import ConfigParser
+from imwievaluation.limesurvey import LimeSurveySession
+from imwievaluation.semester import Semester
+
+
+logger = logging.getLogger(__name__)
+configParser = ConfigParser()
+configParser.read('config.ini')
+
+
+current_semester = configParser['structure']['semester']
+basepath = configParser['structure']['basepath']
+semester_folder = os.path.join(basepath, current_semester)
+
+
+if not os.path.exists(semester_folder):
+    logger.warning(
+        'Directory for semester %s does not exist!' % semester_folder)
+    logger.warning('Run initialise_new_semester.py first')
+
+# parse survey file
+lectures_survey = os.path.join(semester_folder, 'lectures_survey.txt')
+semester = Semester(term=current_semester)
+semester.read_survey_file(lectures_survey)
+
+# initialise limesurvey api connection
+url = configParser['limesurvey']['url']
+username = configParser['limesurvey']['username']
+password = configParser['limesurvey']['password']
+limesurvey = LimeSurveySession(url, username, password)
+
+
+for lecture in semester.lectures:
+
+    # participant data
+    participants_file = lecture.get_filename(modus='participants')
+    participants_file = os.path.join(
+        semester_folder, 'participants', participants_file)
+    if os.path.isfile(participants_file):
+        lecture.parse_participants_csv_file(participants_file)
+    else:
+        logger.warning('No participants file found for %s' % lecture.title)
+        logger.warning('Expected filename was %s' % participants_file)
+        logger.warning(
+            'Skipping "%s" because no participants found.' % lecture.title)
+        continue
+    participant_data = lecture.participants
+    if participant_data == []:
+        logger.warning('No participants found for %s' % participants_file)
+        continue
+
+    # template
+    if lecture.with_tutorial == 'y':
+        template = 'templates/surveys/__VORLAGE__Evaluation-mit-Tutorium.lss'
+    elif lecture.with_tutorial == 'n':
+        template = 'templates/surveys/__VORLAGE__Evaluation-ohne-Tutorium.lss'
+    else:
+        raise IOError('Lecture %s has no info on with_tutorial in %s'
+                      % (lecture, lectures_survey))
+    # name
+    name = lecture.get_filename(modus='evaluation')
+
+    # api call
+    try:
+        logger.info(
+            'Generating survey %s (%s)' % (name, lecture.with_tutorial))
+        limesurvey.generate_new_survey_with_participants(
+            template, name, participant_data)
+    except OSError as e:
+        logger.warning('%s - Skipping' % e)
+
+# WS1718 missing: 2x lee, troge kolloquium + wiegandt norwegen
+
+
+

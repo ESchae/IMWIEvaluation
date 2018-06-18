@@ -1,0 +1,7 @@
+lecturer	gender	mail	lecture title	tutorial
+Maier	m	herr_maier@example.com	Musik macht: schön	y
+Maier	m	herr_maier@example.com	Alles – manches – nichts	n
+Müller	f	frau-mueller@example.com	You. And me	n
+Müller	f	frau-mueller@example.com	Title / Or something else + more (nice)	n
+Lastone	m	mrlastone@example.com	A question? Nice title!	
+one More	m	onemore@example.com	ÄäÖöÜüß, and things like éè	y
