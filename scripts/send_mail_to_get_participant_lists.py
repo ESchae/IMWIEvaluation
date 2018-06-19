@@ -2,7 +2,7 @@
 import os
 import logging
 from configparser import ConfigParser
-from imwievaluation.semester import Semester
+from imwievaluation.semester_old import Semester
 
 logger = logging.getLogger(__name__)
 configParser = ConfigParser()

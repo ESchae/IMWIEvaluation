@@ -2,7 +2,7 @@ import logging
 import os
 from string import Template
 from configparser import ConfigParser
-from imwievaluation.semester import Semester
+from imwievaluation.semester_old import Semester
 from imwievaluation.mail import MailServer
 from imwievaluation.limesurvey import LimeSurveySession
 

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import pytest
 
-from imwievaluation.semester import Semester, Lecturer, Lecture
+from imwievaluation.semester_old import Semester, Lecturer, Lecture
 
 
 @pytest.fixture

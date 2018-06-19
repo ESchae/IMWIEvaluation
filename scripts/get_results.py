@@ -16,7 +16,7 @@ import logging
 import os
 from configparser import ConfigParser
 from imwievaluation.limesurvey import LimeSurveySession
-from imwievaluation.semester import Semester
+from imwievaluation.semester_old import Semester
 from imwievaluation.latex import LatexResults
 
 
