@@ -29,20 +29,22 @@ class DatabaseTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         """ Connect to the db and create the schema within a transaction. """
-        cls.engine = create_engine(cls.test_db_url)
-        cls.connection = cls.engine.connect()
-        cls.transaction = cls.connection.begin()
-        Base.metadata.create_all(cls.connection)  # create the tables
+        DatabaseTest.engine = create_engine(DatabaseTest.test_db_url)
+        DatabaseTest.connection = DatabaseTest.engine.connect()
+        DatabaseTest.transaction = DatabaseTest.connection.begin()
+        Base.metadata.create_all(DatabaseTest.connection)  # create the tables
 
     @classmethod
     def tearDownClass(cls):
         """ Roll back the top level transaction and disconnect from the db. """
-        cls.transaction.rollback()
-        cls.connection.close()
-        cls.engine.dispose()
+        DatabaseTest.transaction.rollback()
+        Base.metadata.drop_all(DatabaseTest.engine)  # delete all tables
+        DatabaseTest.connection.close()
+        DatabaseTest.engine.dispose()
 
     def setUp(self):
         """ Create a savepoint to return to after every test case. """
+        print("Setup test")
         self.__transaction = DatabaseTest.connection.begin_nested()
         self.session = Session(DatabaseTest.connection)
 
