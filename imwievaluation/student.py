@@ -36,7 +36,9 @@ class Student(Base):
         instance = cache.get(instance_key)  # check if it exists in the cache
         if instance is None:  # check if it exists in the database
             instance = session.query(cls)\
-                .filter_by(first_name, last_name, email)\
+                .filter_by(first_name=first_name,
+                           last_name=last_name,
+                           email=email)\
                 .first()
             if instance is None:  # create a new instance
                 instance = cls(first_name, last_name, email)
