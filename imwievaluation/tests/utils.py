@@ -44,7 +44,6 @@ class DatabaseTest(unittest.TestCase):
 
     def setUp(self):
         """ Create a savepoint to return to after every test case. """
-        print("Setup test")
         self.__transaction = DatabaseTest.connection.begin_nested()
         self.session = Session(DatabaseTest.connection)
 
