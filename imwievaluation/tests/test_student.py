@@ -10,7 +10,8 @@ class TestStudent(DatabaseTest):
         s2 = Student('Max', 'Mustermann', 'max@mustermann.de')
         self.session.add(s1)
 
-        self.assertRaises(IntegrityError, self.session.add(s2))
+        self.assertRaises(IntegrityError, self.session.add(s1))  # same object
+        self.assertRaises(IntegrityError, self.session.add(s2))  # duplicate
 
     def test_only_mail_and_lastname_duplicated_should_add(self):
         s1 = Student('Max', 'Mustermann', 'max@mustermann.de')
