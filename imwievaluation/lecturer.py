@@ -8,10 +8,13 @@ class Lecturer(Base):
     __tablename__ = 'lecturer'
 
     id = db.Column(db.Integer, primary_key=True)
-    first_name = db.Column(db.String(30))
-    last_name = db.Column(db.String(30))
-    email = db.Column(db.String(50))
-    gender = db.Column(mysql.ENUM('male', 'female'))
+    first_name = db.Column(db.String(30), nullable=False)
+    last_name = db.Column(db.String(30), nullable=False)
+    email = db.Column(db.String(50), nullable=False)
+    gender = db.Column(mysql.ENUM('male', 'female'), nullable=False)
+
+    db.UniqueConstraint('first_name', 'last_name')
+
 
     # one to many relationship between lecturer and lectures
     # compare with declaration in lecture.py

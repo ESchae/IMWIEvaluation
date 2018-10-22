@@ -8,6 +8,9 @@ class SurveyXML(object):
         self.tree = ET.parse(survey_xml_file)
         self.root = self.tree.getroot()
 
+    def get_title(self):
+        return self.tree.find('title').text
+
     def list_items_as_text(self, items, tag='text'):
         items_list = []
         for item in items:

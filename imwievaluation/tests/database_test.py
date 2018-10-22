@@ -1,9 +1,10 @@
 import unittest
 
-from base import Base
-
 from sqlalchemy.engine import create_engine
 from sqlalchemy.orm.session import Session
+
+# from base import Session
+from base import Base
 
 
 class DatabaseTest(unittest.TestCase):
@@ -24,7 +25,7 @@ class DatabaseTest(unittest.TestCase):
     engine = None
     transaction = None
     connection = None
-    test_db_url = 'mysql+mysqlconnector://root:@localhost/test'  # empty db
+    test_db_url = 'mysql+pymysql://imwi:@localhost/test'
 
     @classmethod
     def setUpClass(cls):
@@ -45,7 +46,11 @@ class DatabaseTest(unittest.TestCase):
     def setUp(self):
         """ Create a savepoint to return to after every test case. """
         self.__transaction = DatabaseTest.connection.begin_nested()
-        self.session = Session(DatabaseTest.connection)
+        # create ad hoc session, that binds to test database
+        # see http://docs.sqlalchemy.org/en/latest/orm/session_basics.html
+        # "Creating Ad-Hoc Session Objects with Alternate Arguments"
+        # Session.remove()  # remove last session to prevent session conflicts
+        self.session = Session(bind=DatabaseTest.connection)
 
     def tearDown(self):
         """ Return to save point from before last test case. """

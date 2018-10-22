@@ -9,6 +9,20 @@ def clean_string(string):
     return clean_string
 
 
+def get_or_create(session, model, **kwargs):
+    """ Get object from database or create if it does not exist yet.
+    See https://stackoverflow.com/questions/2546207/does-sqlalchemy-have-an-equivalent-of-djangos-get-or-create
+    """
+    instance = session.query(model).filter_by(**kwargs).first()
+    if instance:
+        return instance
+    else:
+        instance = model(**kwargs)
+        session.add(instance)
+        session.commit()
+        return instance
+
+
 def escape_latex_special_characters(string):
     special_characters = ['&', '%', '$', '#', '_', '{', '}', '~', '^']
     # TODO: Maybe \ could be a problem too...

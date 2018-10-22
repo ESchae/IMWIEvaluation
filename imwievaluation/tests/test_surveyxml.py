@@ -1,9 +1,14 @@
 from imwievaluation.surveyxml import SurveyXML
 
-xmlfile = 'imwievaluation/tests/testfiles/survey.xml'
+xmlfile = 'testfiles/survey.xml'
 sx = SurveyXML(xmlfile)
 groups = sx.root.findall('section')
 questions = sx.get_group_questions(groups[0])
+
+
+def test_get_title():
+    title = sx.get_title()
+    assert title == '___ VORLAGE ___ Evaluation mit Tutorium'
 
 
 def test_get_groups():

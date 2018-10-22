@@ -221,13 +221,3 @@ class LimeSurveySession(object):
         tokens = int(summary['token_count'])
         incomplete = int(summary['incomplete_responses'])
         return completed, tokens, incomplete
-
-
-s = LimeSurveySession('http://imwi.hfm.eu/survey/index.php/admin/remotecontrol', 'admin', 'hfmsurvey1')
-surveys = s.list_all_surveys('WS1718')
-for survey in surveys:
-    print(survey['surveyls_title'])
-    s.print_survey_participation(survey['sid'])
-    print()
-
-
